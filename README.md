@@ -3,8 +3,11 @@
 > 🎓 Z-CV is a Gen Z–friendly résumé builder powered by AI.  
 > Just answer a few smart questions, and we'll help you turn your real experience into a polished, professional LaTeX résumé.  
 
-![Built with Bolt.new](https://bolt.new/badge.svg)
+[![Built with Bolt.new](https://raw.githubusercontent.com/kickiniteasy/bolt-hackathon-badge/main/public/badge-text.svg)](https://bolt.new/)
 
+
+
+The backend code was not fully integrated due to limited time.
 ---
 
 ## 🌟 What is Z-CV?
